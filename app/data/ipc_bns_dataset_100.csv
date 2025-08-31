@@ -1,0 +1,135 @@
+Label_ID,IPC,IPC description,BNS
+0,IPC 107,Abetment of a thing,BNS 45
+1,IPC 109,"Punishment of abetment if the act abetted is
+committed in consequence and where no express
+provision is made for its punishment.",BNS 49
+2,IPC 114,Abettor present when offence is committed.,BNS 54
+3,IPC 120,Concealing design to commit offence punishable with imprisonment.,BNS 60
+4,IPC 120B,Punishment of criminal conspiracy,BNS 61(2)
+5,IPC 13,NA,NA
+6,IPC 143,Punishment,BNS 189 (2) 
+7,IPC 147,Punishment for rioting,BNS 191 (2)
+8,IPC 148,"Rioting, armed with deadly weapon",BNS 191 (3)
+9,IPC 149,"Every member of unlawful assembly guilty of
+offence committed in prosecution of common object.",BNS 190
+10,IPC 155,"Liability of person for whose benefit riot is
+committed.",BNS 193 (2)
+11,IPC 156,"Liability of agent of owner or occupier for whose
+benefit riot is committed.",BNS 193 (3)
+12,IPC 161,NA,NA
+13,IPC 164,NA,NA
+14,IPC 173,"Preventing service of summons or other
+proceeding, or preventing publication thereof",BNS 207
+15,IPC 174A,"Non-attendance in obedience to an order from
+public servant.",BNS 208
+16,IPC 186,"Obstructing public servant in discharge of public
+functions.",BNS 221
+17,IPC 188,"Disobedience to order duly promulgated by
+public servant.",BNS 223
+18,IPC 190,"Threat of injury to induce person to refrain from
+applying for protection to public servant.",BNS 225
+19,IPC 193,Punishment for false evidence,BNS 229
+20,IPC 2,Punishment of offences committed within India.,BNS 1(3)
+21,IPC 200,"Using as true such declaration knowing it to be
+false.",BNS 237
+22,IPC 201,"Causing disappearance of evidence of offence,
+or giving false information to screen offender",BNS 238
+23,IPC 228,"Intentional insult or interruption to public
+servant sitting in judicial proceeding",BNS 267
+24,IPC 229A,"Failure by person released on bail or bond to
+appear in court",BNS 269
+25,IPC 279,Rash driving or riding on a public way,BNS 281
+26,IPC 294,Obscene acts and songs,BNS 296
+27,IPC 294B,"""sings, recites or utters any obscene song, ballad or words"" in or near a public place",BNS 296
+28,IPC 299,Culpable homicide,BNS 100
+29,IPC 3,"Punishment of offences committed beyond, but
+which by law may be tried within, India",BNS 1(4) 
+30,IPC 300,Murder,BNS 101
+31,IPC 302,Punishment for murder.,BNS 103
+32,IPC 304,"Punishment for culpable homicide not
+amounting to murder.",BNS 105
+33,IPC 304A,Causing death by negligence,BNS 106.
+34,IPC 304B,Dowry death.,BNS 80
+35,IPC 306, Abetment of suicide.,BNS 108
+36,IPC 307,Attempt to murder,BNS 109
+37,IPC 308,Attempt to commit culpable homicide,BNS 110
+38,IPC 313,Causing miscarriage without woman's consent.,BNS 89
+39,IPC 320,Grievous hurt.,BNS 116
+40,IPC 323,Punishment for voluntarily causing hurt.,BNS 115(2)
+41,IPC 324,"Voluntarily causing hurt by dangerous weapons
+or means.",BNS 118(1)
+42,IPC 325,"Punishment for voluntarily causing grievous
+hurt.",BNS 117(2)
+43,IPC 326,"Voluntarily causing grievous hurt by dangerous
+weapons or means.",BNS 118(2)
+44,IPC 332," Voluntarily causing hurt to deter public servant
+from his duty.",BNS 121(1)
+45,IPC 336,"Act endangering life or personal safety of
+others",BNS 125
+46,IPC 337,"Causing hurt by act endangering life or personal
+safety of others.",BNS 125(a)
+47,IPC 338,"Causing grievous hurt by act endangering life or
+personal safety of others.",BNS 125(b) 
+48,IPC 34,"Acts done by several persons in furtherance of
+common intention.",BNS 3(5)
+49,IPC 341,Punishment for wrongful restraint.,BNS 126(2)
+50,IPC 342,Punishment for wrongful confinement.,BNS 127(2)
+51,IPC 353,"Assault or criminal force to deter public servant
+from discharge of his duty",BNS 132
+52,IPC 354,"Assault or criminal force to woman with intent
+to outrage her modesty.",BNS 74
+53,IPC 363,Punishment for kidnapping.,BNS 137(2)
+54,IPC 364,Kidnapping or abducting in order to murder,BNS 140
+55,IPC 365,"Kidnapping or abducting with intent secretly and
+wrongfully to confine person.",BNS 140(3)
+56,IPC 366,"Kidnapping, abducting or inducing woman to
+compel her marriage, etc.",BNS 87
+57,IPC 366A, Procuration of minor girl.,BNS 96
+58,IPC 375,Rape,BNS 63
+59,IPC 376,Punishment for rape.,BNS 64
+60,IPC 376(2), rape is committed by certain public servants,BNS 64(2)
+61,IPC 379,. Punishment for theft.,BNS 303 (2)
+62,IPC 380,"Theft in dwelling house, etc.",BNS 305
+63,IPC 384,Punishment for extortion.,BNS 308 (2)
+64,IPC 389,"Putting person in fear or accusation of offence,
+in order to commit extortion.",BNS 308 (6)
+65,IPC 392,. Punishment for robbery.,BNS 309 (4)
+66,IPC 394,Voluntarily causing hurt in committing robbery,BNS 309(6)
+67,IPC 395,Punishment for dacoity.,BNS 310
+68,IPC 397,"Robbery, or dacoity, with attempt to cause
+death or grievous hurt.",BNS 311
+69,IPC 4,Extension of Code to extra-territorial offences.,BNS 1(5)
+70,IPC 406,Punishment for criminal breach of trust.,BNS 316 (2) 
+71,IPC 409,"Criminal breach of trust by public servant, or by
+banker, merchant or agent",BNS 316 (5)
+72,IPC 411,Dishonestly receiving stolen property.,BNS 317 (2)
+73,IPC 415,Cheating.,BNS 318 (1)
+74,IPC 417,. Punishment for cheating,BNS 318 (2)
+75,IPC 419,. Punishment of cheating by personation.,BNS 319(2)
+76,IPC 420,Cheating and dishonestly inducing delivery of property,BNS 318 (4)
+77,IPC 427,Mischief causing damage to the amount of fifty rupees,BNS 324 (4)
+78,IPC 436,"Mischief by fire or explosive substance with intent to destroy house, etc.",BNS 326 (g)
+79,IPC 437,Mischief with intent to destroy or make unsafe a decked vessel or one of twenty tons burden,BNS 327 (1)
+80,IPC 438,Punishment for the mischief described in section 437 committed by fire or explosive substance,BNS 327 (2)
+81,IPC 447,Punishment for criminal trespass.,BNS 329 (3)
+82,IPC 448,Punishment for house-trespass.,BNS 329 (4)
+83,IPC 450,House-trespass in order to commit offence punishable with imprisonment for life.,BNS 332 (b)
+84,IPC 452,"House-trespass after preparation for hurt,
+assault or wrongful restraint.",BNS 333
+85,IPC 457,Lurking house-trespass or house-breaking by night in order to commit offence punishable with imprisonment,"BNS 331 (2,4)"
+86,IPC 465,Punishment for forgery,BNS 336 (2)
+87,IPC 467,"Forgery of valuable security, will, etc",BNS 338
+88,IPC 468,Forgery for purpose of cheating.,BNS 336 (3)
+89,IPC 471,Using as genuine a forged document or electronic record,BNS 340 (2)
+90,IPC 482,Punishment for using a false property mark.,BNS 345 (3)
+91,IPC 494,"Marrying again during lifetime of husband or
+wife.",BNS 82(1)
+92,IPC 498,Enticing or taking away or detaining with criminal intent a married woman.,BNS 84
+93,IPC 498A,"Husband or relative of husband of a woman
+subjecting her to cruelty.",BNS 85
+94,IPC 5,Certain laws not to be affected by this Act.,BNS 1(6) 
+95,IPC 500,Punishment for defamation.,BNS 356 (2)
+96,IPC 504,Intentional insult with intent to provoke breach of the peace,BNS 352
+97,IPC 506,Punishment for criminal intimidation.,"BNS 351 (2), BNS 351 (3)"
+98,IPC 509,"Word, gesture or act intended to insult the modesty of a woman.",BNS 79
+99,IPC 511,Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment,BNS 62
